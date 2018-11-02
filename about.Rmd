@@ -1,0 +1,40 @@
+---
+title: "About Me"
+---
+
+<img src ="images/diana.jpg" style="width:50%">
+
+### Education
+**Graduate Education**: 
+Columbia University Mailman School of Public Health (Master of Public Health) <br>
+_Department_: Sociomedical Sciences <br>
+_Certificate_: Epidemiology of Chronic Disease 
+
+**Undergraduate Education**: 
+University of California, Los Angeles - UCLA (Bachelor of Science) <br>
+_Major_: Psychobiology <br>
+_Minor_: Public Health <br>
+
+### Research Experience 
+**Columbia University Mailman School of Public Health – Department of Epidemiology** <br>
+Exito! Latino Cancer Health Disparities Intern <br>
+Principal Investigator: Dr. Manuela Orjuela-Grimm <br>
+* Assist with the evaluation of the impact of Comprando Rico y Sano (Buying Healthy and Flavorful Foods) - national program-led by community health workers. <br>
+* The program seeks to reduce hunger and instill healthy shopping and eating habits among Latinos through nutrition education and enrollment assistance into SNAP benefits  <br>
+* Conduct literature reviews, data collection, cleaning, capture, and assist with preparing presentations <br>
+
+### Leadership Experience
+**Columbia University Mailman School of Public Health** <br>
+Core Lead Teaching Assistant – Research Methods and Applications (Quantitative Foundations) Studio <br>
+* Coordinate and schedule studio administrative logistics with the Office of Educational Programs, supported studio faculty, Dr. Dana March and 21 teaching assistants <br>
+* Management of grading inquiries, assessment and rubric editing, triage and/or respond to student and teaching assistant inquiries <br>
+* Evaluation of students receiving flipped classroom instruction versus traditional didactic instruction    
+
+### Skills 
+* Mental Health First Aid Certified
+* Speak, read, and write in Spanish and English fluently 
+* Excellent computer skills with Microsoft Excel, Word, Access, and PowerPoint 
+* Proficiency in Kaiser Permanente’s electronic medical record software HealthConnect (EPIC)
+* Basic knowledge of SPSS 
+
+

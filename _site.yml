@@ -1,0 +1,17 @@
+name: "Diana Ballesteros Gonzalez's Website"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<deg2163@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/deg2163 
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/dianaballesteros/
+output:
+  html_document:
+    theme: flatly
+    self_contained: false
